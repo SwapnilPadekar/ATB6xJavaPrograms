@@ -37,3 +37,46 @@ ch == 'a' || ch == 'e' || ch == 'i' || ch == 'o' || ch == 'u' || ch == 'A' || ch
 else -> Consonant
 4. Leap Year Program - 2024 > Program to Check if a Year is a Leap Year or Not:
 5. Check for Prime Number > Program to Check if a Number is Prime or Not
+6. FizzBuzz Test: Write a program that prints numbers from 1 to 100. However, for multiples of 3, print "Fizz" instead of the number, and for multiples of 5, print "Buzz." For numbers that are multiples of both 3 and 5, print "FizzBuzz."
+
+====================
+
+#4. Switch Java Programs
+Program to Perform Arithmetic Operations > Take a input from user, input1, input2 as int and ask the user what you want to do, enter char +,*,/ ,%, - , you will share the result by using the switch.
+
+====================
+
+#5. Arrays Coding Program
+1. Create a Program which takes arrays and print all the marks.
+2. Create a Program to double an array and store it also. {1,2,3} -> {2,4,6}
+3. Find the max salary in the input arrays {30,50,60,90,10, 100,999}
+
+====================
+
+#6. Strings Coding Questions
+1. Reverse a String without using any function or using for loop.
+2. Duplicate String - Hello World -> Helowrd
+3. Java Anagrams - silent -> listen , length1 = length2,
+
+====================
+
+#7. 2d Coding Arrays Question
+
+int[][] arr = {
+{1, 2, 3},
+{4, 5, 6},
+{7, 8, 9}
+};
+
+Write - Java method to find the maximum value in a 2D array. - O/P - 9
+Write a Java method to check if a given element exists in a 2D array. ( element =8) , true
+Write a Java method to transpose a given 2D array.
+{
+{1,4,7} ,
+{2,5,8} ,
+{3,6,9}
+}
+
+====================
+
+#8. 
