@@ -30,15 +30,15 @@ More projects here - https://sdet.live/websitepractice
 ====================
 
 #3. Java Program with If Loop
-1. Positive / Negative Number > Program to Check if a Number is Positive, Negative, or Zero.
-2. Largest in Three Number > Program to Find the Largest Among Three Numbers:
+1. Positive / Negative Number > Program to Check if a Number is Positive, Negative, or Zero. > Done
+2. Largest in Three Number > Program to Find the Largest Among Three Numbers > Done
 3. Check char is vowel, consonant.Program to Check if a Character is a Vowel or a Consonant.
 ch == 'a' || ch == 'e' || ch == 'i' || ch == 'o' || ch == 'u' || ch == 'A' || ch == 'E' || ch == 'I' || ch == 'O' || ch == 'U') ->. vowel
-else -> Consonant
-4. Leap Year Program - 2024 > Program to Check if a Year is a Leap Year or Not:
-5. Check for Prime Number > Program to Check if a Number is Prime or Not
+else -> Consonant > Done
+4. Leap Year Program - 2024 > Program to Check if a Year is a Leap Year or Not > Done
+5. Check for Prime Number > Program to Check if a Number is Prime or Not > Not Done
 6. FizzBuzz Test: Write a program that prints numbers from 1 to 100. However, for multiples of 3, print "Fizz" instead of the number, and for multiples of 5, print "Buzz." For numbers that are multiples of both 3 and 5, print "FizzBuzz."
-
+> Done
 ====================
 
 #4. Switch Java Programs > Done > CalcBySwitch.java
@@ -46,21 +46,21 @@ Program to Perform Arithmetic Operations > Take a input from user, input1, input
 
 ====================
 
-#5. Arrays Coding Program
+#5. Arrays Coding Program > Pending
 1. Create a Program which takes arrays and print all the marks.
 2. Create a Program to double an array and store it also. {1,2,3} -> {2,4,6}
 3. Find the max salary in the input arrays {30,50,60,90,10, 100,999}
 
 ====================
 
-#6. Strings Coding Questions
+#6. Strings Coding Questions > Pending
 1. Reverse a String without using any function or using for loop.
 2. Duplicate String - Hello World -> Helowrd
 3. Java Anagrams - silent -> listen , length1 = length2,
 
 ====================
 
-#7. 2d Coding Arrays Question
+#7. 2d Coding Arrays Question > Pending
 
 int[][] arr = {
 {1, 2, 3},
@@ -71,7 +71,7 @@ int[][] arr = {
 Write - Java method to find the maximum value in a 2D array. - O/P - 9
 Write a Java method to check if a given element exists in a 2D array. ( element =8) , true
 Write a Java method to transpose a given 2D array.
-{
+O/p: {
 {1,4,7} ,
 {2,5,8} ,
 {3,6,9}
