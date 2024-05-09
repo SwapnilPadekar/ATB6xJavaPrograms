@@ -47,9 +47,9 @@ Program to Perform Arithmetic Operations > Take a input from user, input1, input
 ====================
 
 #5. Arrays Coding Program > Pending
-1. Create a Program which takes arrays and print all the marks.
-2. Create a Program to double an array and store it also. {1,2,3} -> {2,4,6}
-3. Find the max salary in the input arrays {30,50,60,90,10, 100,999}
+1. Create a Program which takes arrays and print all the marks. > Done
+2. Create a Program to double an array and store it also. {1,2,3} -> {2,4,6} > Done
+3. Find the max salary in the input arrays {30,50,60,90,10, 100,999} > Done
 
 ====================
 

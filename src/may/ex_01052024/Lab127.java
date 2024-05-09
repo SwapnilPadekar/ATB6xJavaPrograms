@@ -17,6 +17,8 @@ public class Lab127 {
 
         System.out.println(arr1.equals(arr2)); //Objects.Java - ref.
 
+        // equals method can be used only for Strings for rest of the data types ==
+
 
         String s1 = "Pramod";
         String s2 = "Pramod";
