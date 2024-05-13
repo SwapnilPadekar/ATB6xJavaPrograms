@@ -36,7 +36,7 @@ More projects here - https://sdet.live/websitepractice
 ch == 'a' || ch == 'e' || ch == 'i' || ch == 'o' || ch == 'u' || ch == 'A' || ch == 'E' || ch == 'I' || ch == 'O' || ch == 'U') ->. vowel
 else -> Consonant > Done
 4. Leap Year Program - 2024 > Program to Check if a Year is a Leap Year or Not > Done
-5. Check for Prime Number > Program to Check if a Number is Prime or Not > Not Done
+5. Check for Prime Number > Program to Check if a Number is Prime or Not > Done
 6. FizzBuzz Test: Write a program that prints numbers from 1 to 100. However, for multiples of 3, print "Fizz" instead of the number, and for multiples of 5, print "Buzz." For numbers that are multiples of both 3 and 5, print "FizzBuzz."
 > Done
 ====================
@@ -54,9 +54,9 @@ Program to Perform Arithmetic Operations > Take a input from user, input1, input
 ====================
 
 #6. Strings Coding Questions > Pending
-1. Reverse a String without using any function or using for loop.
-2. Duplicate String - Hello World -> Helowrd
-3. Java Anagrams - silent -> listen , length1 = length2,
+1. Reverse a String without using any function or using for loop. > Done
+2. Duplicate String - Hello World -> Helowrd > Done
+3. Java Anagrams - silent -> listen , length1 = length2 > Done
 
 ====================
 
@@ -68,9 +68,9 @@ int[][] arr = {
 {7, 8, 9}
 };
 
-Write - Java method to find the maximum value in a 2D array. - O/P - 9
-Write a Java method to check if a given element exists in a 2D array. ( element =8) , true
-Write a Java method to transpose a given 2D array.
+Write - Java method to find the maximum value in a 2D array. - O/P - 9 > Done
+Write a Java method to check if a given element exists in a 2D array. ( element =8) , true > Done
+Write a Java method to transpose a given 2D array. > Done
 O/p: {
 {1,4,7} ,
 {2,5,8} ,
@@ -79,4 +79,11 @@ O/p: {
 
 ====================
 
-#8. 
+#8. OOPs concept - mini Project #1 > Done.
+    Search for the difference between PP vs OOPs.
+    Create Multiple class for the ATB6X project, Attribute, Behav, Course, Student, Payment.
+    Create Object of 3 students and assign the values.
+
+====================
+
+#9. Swap numbers & diagonal of 2D array > Not Done
