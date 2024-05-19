@@ -30,19 +30,27 @@ public class AutomationClass {
 
     public static void main(String[] args) {
         AutomationClass tc1 = new AutomationClass("TC1");
+<<<<<<< HEAD
 
 
 
         AutomationClass tc2 = new AutomationClass("TC2");
         tc1.dataBaseConnection();
+=======
+        AutomationClass tc2 = new AutomationClass("TC2");
+>>>>>>> ca942ac0b992c9d15bf7b615a5eab376717350e7
         System.out.println(tc1.name);
         tc1.testCase1();
         tc1.testCase2();
 
+<<<<<<< HEAD
 
 
         System.out.println(tc2.name);
         tc2.excelOpen();
+=======
+        System.out.println(tc2.name);
+>>>>>>> ca942ac0b992c9d15bf7b615a5eab376717350e7
         tc2.testCase1();
         tc2.testCase2();
 
