@@ -10,7 +10,7 @@ public class Lab232 {
         // List mylist2 = new ArrayList();
         // List is an interface , can you create object of ArrayList class?
         List mylist = new ArrayList();
-        ArrayList mylist1 = new ArrayList();
+        ArrayList mylist1 = new ArrayList(); // Dynamic dispatch
         // add, remove, clear, contains, indexOf, isEmpty, size, get
         // addAll, removeAll, retainAll, containsAll
 

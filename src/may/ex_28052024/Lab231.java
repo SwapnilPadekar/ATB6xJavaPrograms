@@ -29,21 +29,14 @@ public class Lab231 {
         System.out.println(fruites.get(0));
         System.out.println(fruites.indexOf("apple"));
         // IsEmpty
-        System.out.println(fruites.isEmpty());
+        System.out.println(fruites.isEmpty()); //false
 
         // add, remove, clear, contains, indexOf, isEmpty, size, get
         // addAll, removeAll, retainAll, containsAll
 
 
-        fruites.add("grapes");
+        fruites.add("grapes"); //UnsupportedOperationException
         System.out.println(fruites);
-
-
-
-
-
-
-
 
     }
 }

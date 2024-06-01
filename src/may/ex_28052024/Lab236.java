@@ -13,7 +13,7 @@ public class Lab236 {
         mylist1.add("Kiran");
         System.out.println(mylist1);
 
-        Vector v = new Vector();
+        Vector v = new Vector(); //Vector is a thread safe
         v.add("Pramod"); // t1
         v.add("Anusha"); // t1
         v.add("Kiran"); // t1
@@ -23,7 +23,7 @@ public class Lab236 {
 
         System.out.println(v);
 
-
+//We never used thread safe things as they are slow.
 
     }
 }
