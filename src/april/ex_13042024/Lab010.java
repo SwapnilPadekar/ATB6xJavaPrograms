@@ -29,7 +29,7 @@ public class Lab010 {
         int a = 66;
         int Z = 66;
         int $ = 66;
-        //int _ = 66; not allowed
+        int _ = 66;
         int $_age = 66;
         int $_age2 = 66;
 //        int 1name  = 34;
