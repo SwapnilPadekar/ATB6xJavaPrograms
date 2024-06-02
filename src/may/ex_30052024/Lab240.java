@@ -18,12 +18,9 @@ public class Lab240 {
         v2.add("LAPIT");
         v2.add("SDET Blueprint");
 
-        Enumeration e = v2.elements();
-        while(e.hasMoreElements()){
+        Enumeration e = v2.elements(); // Legacy class only for vectors
+        while (e.hasMoreElements()) {
             System.out.println(e.nextElement());
         }
-
-
-
     }
 }

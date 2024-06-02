@@ -18,7 +18,7 @@ public class Lab238 {
         courseList.add("LAPIB");
         courseList.add("SDET Blueprint");
 
-        List numList = new ArrayList();
+        List numList = new ArrayList();// default List<Object>
         numList.add(150);
         numList.add(100);
         numList.add(100);

@@ -41,7 +41,7 @@ public class Lab239 {
         // ATB, MTB, PyATB, LAPIT, SDET Blueprint
 
         ListIterator lt2 = ttacourseList.listIterator(ttacourseList.size());
-        while(lt2.hasPrevious()){
+        while (lt2.hasPrevious()) {
             //ttacourseList.add("Gen AI");
             lt2.add("Gen AI");
             //System.out.println(lt2.hasPrevious());
@@ -49,7 +49,8 @@ public class Lab239 {
 
         System.out.println(ttacourseList);
 
-
+        //Iterator can move right to left
+        ///listIterator can move right to left and left to right
 
     }
 }

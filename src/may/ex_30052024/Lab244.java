@@ -22,9 +22,9 @@ public class Lab244 {
         students.add(student);
         students.add(student2);
         students.add(student3);
-        System.out.println(students);
+        System.out.println(students);//before sort
         Collections.sort(students,new SortByNameDesc());
-        System.out.println(students);
+        System.out.println(students);//after sort
 
 
 

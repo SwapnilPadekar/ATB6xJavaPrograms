@@ -13,7 +13,7 @@ public class Lab241 {
         myMakrs.add(91);
         myMakrs.add(87);
         myMakrs.add(80);
-        Collections.sort(myMakrs);
+        Collections.sort(myMakrs);  //This is a concreete class
         System.out.println(myMakrs);
 
 
